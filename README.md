@@ -1,8 +1,8 @@
-# Nutri+
+# Nexus Nutri+
 
-# Features
+## Features
 
-## Meal Analysis
+### Meal Analysis
 - Analyze meals using the camera
 - Recognize dishes with AI
 - Estimate:
@@ -11,12 +11,12 @@
   - Vitamins
   - Health Score
 
-## Personalized Nutrition Goals
+### Personalized Nutrition Goals
 - Create individual daily targets
 - Track progress throughout the day
 - Compare consumed nutrients with personal goals
 
-## AI Agents
+### AI Agents
 
 Nutri+ includes several AI-powered assistants:
 
@@ -32,7 +32,7 @@ Nutri+ includes several AI-powered assistants:
 - **Shopping Agent**
   - Generates ingredient lists based on recommendations
 
-## User Persona
+### User Persona
 The app creates a user-specific AI profile that summarizes:
 - Nutrition habits
 - Goals
@@ -42,15 +42,15 @@ This allows the AI to provide more personalized recommendations over time.
 
 ---
 
-# Installation
+## Installation
 
-## 1. Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/NutriPlus.git
 ```
 
-## 2. Open the project
+### 2. Open the project
 
 Open:
 
@@ -61,7 +61,7 @@ using Xcode.
 
 ---
 
-# Running the App
+## Running the App
 
 
 Simply open the app in Xcode, select an iPhone simulator or connected device and press:
