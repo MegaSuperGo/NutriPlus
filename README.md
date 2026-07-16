@@ -1,7 +1,5 @@
 # Nutri+
 
----
-
 # Features
 
 ## Meal Analysis
